@@ -4,7 +4,7 @@ Este projeto apresenta uma animação do BB-8, o famoso droide de Star Wars, que
 
 Demonstração
 
-Você pode conferir a animação do BB-8 em ação neste link.
+Você pode conferir a animação do BB-8 em ação neste <a href="https://animation-bb8.vercel.app/">link</a>.
 
 Tecnologias Utilizadas
 
