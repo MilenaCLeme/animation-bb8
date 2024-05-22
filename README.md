@@ -1,4 +1,4 @@
-Animação Suave do BB-8 🚀
+#Animação Suave do BB-8 🚀
 
 Este projeto apresenta uma animação do BB-8, o famoso droide de Star Wars, que se move suavemente conforme o movimento do mouse. A animação é controlada pelo método requestAnimationFrame para garantir uma experiência visual fluida.
 
